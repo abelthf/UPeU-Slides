@@ -7,7 +7,7 @@
 
 # 2. Abrir y guardar el tema descargado
 
-Tendra que abrir el archivo descargado (Template UPeU FIA.potx), para luego abrirlo con PowerPoint, finalmente deberá guardarlo como plantilla, para que quede de manera permanete en su computador.
+Abrir el archivo descargado (Template UPeU FIA.potx) con PowerPoint, finalmente deberá guardarlo como plantilla, para que quede de manera permanete en su computador.
 
 
    [df1]: <https://github.com/abelthf/UPeU-Slides/raw/master/Slide%20PowerPoint%20Theme/Template%20UPeU%20FIA.potx>
