@@ -12,3 +12,7 @@ Tendra que abrir el archivo descargado (Template UPeU FIA.potx), para luego abri
 
    [df1]: <https://github.com/abelthf/UPeU-Slides/raw/master/Slide%20PowerPoint%20Theme/Template%20UPeU%20FIA.potx>
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
+
+# 3. TODO
+
+Plantilla en LaTex
